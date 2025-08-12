@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hola, soy Arturo Contreras Lamas 👋
+Desarrollador web con enfoque en Laravel y React.  
+Actualmente aprendiendo y construyendo proyectos para mejorar mi portafolio.  
+💻 Tecnologías: Laravel, PHP, MySQL, React, TailwindCSS.
